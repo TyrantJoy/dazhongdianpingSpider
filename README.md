@@ -18,6 +18,6 @@
 
 `个人微信公众号`:
 
- ![微信公众号](http://www.linuxstudy.cn/images/wechatpersonal.jpg)
+ ![微信公众号](https://www.linuxstudy.cn/images/wechatpersonal.jpg)
 
 
