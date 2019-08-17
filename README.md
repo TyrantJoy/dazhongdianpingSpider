@@ -13,7 +13,9 @@
 ## Tips
 
 `Email`：`TyrantLucifer@linuxstudy.cn`
+
 `Blog`：`https://www.linuxstudy.cn`
+
 `个人微信公众号`:
 
 ![微信公众号](http://www.linuxstudy.cn/images/wechatpersonal.jpg)
