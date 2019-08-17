@@ -1,0 +1,2 @@
+# dazhongdianpingSpider
+大众点评最新爬虫demo，可以批量爬取店铺评论评分等信息
